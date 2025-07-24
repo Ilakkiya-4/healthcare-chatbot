@@ -1,0 +1,52 @@
+[
+  {
+  "questions": [
+    "What is asthma?",
+    "Tell me about asthma",
+    "Asthma symptoms?",
+    "How to control asthma?",
+    "Is asthma hereditary?",
+    "Can asthma be cured?",
+    "What are the triggers of asthma?",
+    "Treatment for asthma?"
+  ],
+  "answer": "Asthma is a chronic condition in which a person's airways become inflamed, narrow and swell, and produce extra mucus, making it difficult to breathe. It can be managed with medications and avoiding triggers."
+},
+  {
+    "questions": [
+      "What causes wheezing",
+      "Why do I wheeze",
+      "Reason for wheezing sound"
+    ],
+    "answer": "Wheezing is usually caused by narrowed airways from asthma, allergies, or infections."
+  },
+  {
+  "questions": [
+    "What is COPD",
+    "Tell me about chronic obstructive pulmonary disease",
+    "COPD meaning",
+    "Explain COPD",
+    "What causes COPD?",
+    "How do you treat COPD?",
+    "Symptoms of COPD?",
+    "Is COPD curable?",
+    "How is COPD diagnosed?",
+    "What are the types of COPD?"
+  ],
+  "answer": "COPD stands for Chronic Obstructive Pulmonary Disease. It's a group of progressive lung diseases that block airflow and make it difficult to breathe. It includes emphysema and chronic bronchitis."
+},
+{
+  "questions": [
+    "How to use an inhaler?",
+    "What is the correct way to use an inhaler?",
+    "Can I use my inhaler every day?",
+    "Are inhalers safe?",
+    "Why is my inhaler not working?",
+    "What types of inhalers are there?",
+    "What is a rescue inhaler?",
+    "Difference between rescue and maintenance inhalers?"
+  ],
+  "answer": "To use an inhaler properly, shake it well, exhale fully, place the inhaler in your mouth, and press the canister while taking a deep breath. Then hold your breath for a few seconds. Inhalers can be rescue or maintenance types and must be used as prescribed."
+}
+
+]
